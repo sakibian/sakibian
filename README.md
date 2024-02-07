@@ -30,9 +30,9 @@ Full Time - Remote
 
 #### 🌐 Tech Stack:
 
-> Languages: PHP  
-> Frameworks: Laravel, React  
-> Tools: VS Code, Figma, Laragon, Xampp, Notepad++, TickTick, Slack, WSL2
+> **Languages**: PHP  
+> **Frameworks**: Laravel  
+> **Tools**: VS Code, Figma, Laragon, Xampp, Notepad++, TickTick, Slack, WSL2
 
 #### 🔧 Current Focus:
 
@@ -43,20 +43,20 @@ Full Time - Remote
 
 > ##### 0.1 TabletopBD
 >
-> **_Software as a service_**
-> Platforms: Web, Android  
+> **_Software as a service_**  
+> **Platforms**: Web, Android  
 > Gaining knowledge on SaaS.
 
 > ##### 0.2 Tazmil
 >
-> **_Inventory management system_**
-> Platform: Web (Full Responsive)
+> **_Inventory management system_**  
+> **Platform**: Web (Full Responsive)  
 > Learned more about e-commerce architecture.
 
 > ##### 0.3 Solodou
 >
-> **_French Language learning_**
-> Platform: Web, Android  
+> **_French Language learning_**  
+> **Platforms**: Web, Android  
 > Learned Rest API's.
 
 ###### 📫 Let's Connect:
