@@ -30,9 +30,9 @@ Full Time - Remote
 
 #### 🌐 Tech Stack:
 
-> **Languages**: PHP  
-> **Frameworks**: Laravel  
-> **Tools**: VS Code, Figma, Laragon, Xampp, Notepad++, TickTick, Slack, WSL2
+> **Languages**: PHP, JavaScript  
+> **Frameworks**: Laravel, React, TailwindCSS, Bootstrap 5  
+> **Tools**: VS Code, Figma, Laragon, Xampp, Notepad++, TickTick, Slack, WSL2, Docker, Github Action.
 
 #### 🔧 Current Focus:
 
