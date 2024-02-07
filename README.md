@@ -39,10 +39,11 @@ Full Time - Remote
 
 #### 💻 Recent Projects:
 
-> ##### 0.1 SaaS
+> ##### 0.1 TabletopBD
 >
 > ###### Software as a service
 >
+> Platforms: Web, Android  
 > Learning end to end interaction with application.
 
 > ##### 0.2 Tazmil
@@ -55,7 +56,7 @@ Full Time - Remote
 >
 > ###### French Language learning platform - Android, Web
 >
-> Learned Rest API.
+> Learned Rest API's.
 
 ###### 📫 Let's Connect:
 
