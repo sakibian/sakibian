@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 ## I'm Syed Bakibillah Sakib 🤓
 
-#### 🚀 السلام عليكم - (Peace be upon you), 🤝: This is me.
+#### السلام عليكم - (Peace be upon you), 🤝
 
+**_About_**
 Full-stack developer with expertise in Laravel, React, MySQL, Rest API.  
 Passionate about crafting efficient and scalable solutions.  
 Constant learner exploring the latest in JavaScript Library's/Frameworks.
