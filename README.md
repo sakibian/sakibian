@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, I'm Syed Bakibillah Sakib 👋 🤓
+### السلام عليكم - (Peace be upon you), 🤝
+
+## I'm Syed Bakibillah Sakib 🤓
 
 #### 🚀 About:
 
@@ -41,21 +43,20 @@ Full Time - Remote
 
 > ##### 0.1 TabletopBD
 >
-> ###### Software as a service
->
+> **_Software as a service_**
 > Platforms: Web, Android  
-> Learning end to end interaction with application.
+> Gaining knowledge on SaaS.
 
 > ##### 0.2 Tazmil
 >
-> ###### Inventory management system.
->
-> Learning more about e-commerce architecture.
+> **_Inventory management system_**
+> Platform: Web (Full Responsive)
+> Learned more about e-commerce architecture.
 
 > ##### 0.3 Solodou
 >
-> ###### French Language learning platform - Android, Web
->
+> **_French Language learning_**
+> Platform: Web, Android  
 > Learned Rest API's.
 
 ###### 📫 Let's Connect:
