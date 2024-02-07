@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sakibian/sakibian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,45 +13,59 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey, I'm Syed Bakibillah Sakib 👋
+## Hey, I'm Syed Bakibillah Sakib 👋
 
-# 🚀 About Sakib:
+#### 🚀 About:
 
 Full-stack developer with expertise in Laravel, React, MySQL, Rest API.
-Passionate about crafting efficient and scalable solutions
-Constant learner exploring the latest in JavaScript Library's/Frameworks
-💼 Experience:
+
+Passionate about crafting efficient and scalable solutions.
+
+Constant learner exploring the latest in JavaScript Library's/Frameworks.
+
+#### 💼 Experience:
 
 Full Stack Developer @freelance
 
-🌐 Tech Stack:
+Full Time - Remote
 
-Languages: PHP
-Frameworks: Laravel, React
-Tools: VS Code, Figma, Laragon, Xampp, Notepad++, TickTick, Slack, WSL2
-🔧 Current Focus:
+#### 🌐 Tech Stack:
 
-Exploring: The Odin Project
-Building: Portfolio revamping
-💻 Recent Projects:
+> Languages: PHP
+> Frameworks: Laravel, React
+> Tools: VS Code, Figma, Laragon, Xampp, Notepad++, TickTick, Slack, WSL2
 
-0.1 SaaS
-Description: CannkiPay
-Impact: Learning end to end interaction with application.
+#### 🔧 Current Focus:
 
-0.2 Tazmil
-Description: Inventory management system.
-Impact: Learning more about e-commerce architecture.
+**Exploring**: The Odin Project
+**Building**: Portfolio revamping
 
-0.3 Solodou
-Description: French Language learning platform - Android, Web
-Impact: Learned Rest API.
+#### 💻 Recent Projects:
 
-📫 Let's Connect:
+> ##### 0.1 SaaS
+>
+> Description: CannkiPay
+> Impact: Learning end to end interaction with application.
+
+> ##### 0.2 Tazmil
+>
+> Description: Inventory management system.
+> Impact: Learning more about e-commerce architecture.
+
+> ##### 0.3 Solodou
+>
+> Description: French Language learning platform - Android, Web
+> Impact: Learned Rest API.
+
+###### 📫 Let's Connect:
+
 📧 Email: sakib.works@gmail.com
-🌐 LinkedIn: [\[sakib192\]](https://www.linkedin.com/in/sakib192/)
-🐦 Twitter: [\[sakib192\]](https://twitter.com/sakib192)
-🌍 Portfolio: [\[sakibian.com\]](http://sakibian.com/)
+
+🌐 LinkedIn: [sakib192](https://www.linkedin.com/in/sakib192/)
+
+🐦 Twitter: [sakib192](https://twitter.com/sakib192)
+
+🌍 Portfolio: [sakibian.com](http://sakibian.com/)
 🌟 Open to Collaborations and New Opportunities
 
 Let's talk code and innovation! Reach out, and let's create something awesome together. 🚀
