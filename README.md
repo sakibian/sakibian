@@ -1,70 +1,74 @@
-<!--
-**sakibian/sakibian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Syed Bakibillah Sakib 🤓
 
-Here are some ideas to get you started:
+#### [Peace be upon you] - السلام عليكم - 🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Welcome!
+I'm **Sakib**, a results-driven **full-stack developer** specializing in Laravel, React, and scalable SaaS solutions. I love building robust web platforms, collaborating with global teams, and delivering clean, maintainable code.
 
-## I'm Syed Bakibillah Sakib 🤓
+---
 
-##### [Peace be upon you] - السلام عليكم - 🤝
+## 💁 About Me
+- International experience in remote and freelance development
+- Solving real business problems and scaling digital products
+- Dedicated to code quality, teamwork, and innovation
 
-#### 💁 **About**
+---
 
-Full-stack developer with expertise in Laravel, React, MySQL, Rest API.  
-Passionate about crafting efficient and scalable solutions.  
-Constant learner exploring the latest in JavaScript Library's/Frameworks.
+## 💼 Experience
+- **Freelance Full Stack Developer** (Remote, Global)
+- Engineered production-ready SaaS platforms, e-commerce apps, and messaging APIs
+- Collaborated with startups, businesses, and open-source communities
 
-#### 💼 Experience:
+---
 
-Full Stack Developer @freelance  
-Full Time - Remote
+## 🌐 Tech Stack
+**Languages:** PHP, JavaScript, TypeScript  
+**Frameworks:** Laravel, React, Expo, TailwindCSS, Bootstrap  
+**Tools:** VS Code, Docker, GitHub Actions, Figma  
+**Approaches:** REST APIs, Microservices, CI/CD, Agile/Scrum
 
-#### 🌐 Tech Stack:
+---
 
-> **Languages**: PHP, JavaScript  
-> **Frameworks**: Laravel, React, TailwindCSS, Bootstrap 5  
-> **Tools**: VS Code, Figma, Laragon, Xampp, Notepad++, TickTick, Slack, WSL2, Docker, Github Action.
+## 🔧 Current Focus
+- Cloud-native app development, modern architecture design, and AI APIs
+- Portfolio transformation at [sakibian.com](https://sakibian.com) to showcase top-tier work
 
-#### 🔧 Current Focus:
+---
 
-**Exploring**: The Odin Project  
-**Building**: Portfolio revamping
+## 💻 Recent Projects
 
-#### 💻 Recent Projects:
+### [sakibian.com](https://sakibian.com)
+Portfolio website and official personal brand—built with Laravel. Focuses on UX, accessibility, and case studies of key projects.
 
-> ##### 0.1 TabletopBD
->
-> **_Software as a service_**  
-> **Platforms**: Web, Android  
-> Gaining knowledge on SaaS.
+### [codexcolor](https://github.com/sakibian/codexcolor)
+Multi-page website template for agencies and startups. Modular HTML, CSS, Tailwind, and JavaScript for ultra-fast prototyping.
 
-> ##### 0.2 Tazmil
->
-> **_Inventory management system_**  
-> **Platform**: Web (Full Responsive)  
-> Learned more about e-commerce architecture.
+### [mjobs.io](https://github.com/sakibian/mjobs.io)
+Scalable job portal connecting educators and employers. Dockerized deployment and robust backend API targeting emerging markets.
 
-> ##### 0.3 Solodou
->
-> **_French Language learning_**  
-> **Platforms**: Web, Android  
-> Learned Rest API's.
+### [e-commerce-expo](https://github.com/sakibian/e-commerce-expo)
+Modern e-commerce platform written in TypeScript. Emphasizes responsive design, modular architecture, and real-world scalability.
 
-###### 📫 Let's Connect:
+### [whatsapp-cxc](https://github.com/sakibian/whatsapp-cxc)
+Automated messaging system (TypeScript/PHP) integrating with WhatsApp for business communication workflows.
 
-📧 Email: sakib.works@gmail.com  
-🌐 LinkedIn: [sakib192](https://www.linkedin.com/in/sakib192/)  
-🐦 Twitter: [sakib192](https://twitter.com/sakib192)  
-🌍 Portfolio: [sakibian.com](http://sakibian.com/)  
-🌟 Open to Collaborations and New Opportunities
+---
 
-Let's talk code and innovation! Reach out, and let's create something awesome together. 🚀
+## 🏆 Achievements
+- GitHub Developer Program Member  
+- Delivered projects for global clients and collaborated internationally  
+- Passionate contributor and open to new opportunities and partnerships
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** sakib.works@gmail.com
+- 🌐 **LinkedIn:** [sakib192](https://linkedin.com/in/sakib192/)
+- 🐦 **Twitter/X:** [sakib192](https://twitter.com/sakib192)
+- 🎨 **Portfolio:** [sakibian.com](https://sakibian.com)
+- 🌍 **Open to remote, freelance, and international collaboration**
+
+---
+
+_Coders connect the world. Let’s build something impactful together! 🚀_
