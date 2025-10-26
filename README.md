@@ -61,6 +61,7 @@ Tools for automating WhatsApp messaging—helping businesses communicate better.
 ## Achievements
 
 - Member of the GitHub Developer Program
+- Contributor to [Hack for LA](https://github.com/hackforla) (Los Angeles organization supporting civic tech/open source)
 - Have built and delivered projects for clients in several countries
 - Always open to new ideas and collaborations
 
