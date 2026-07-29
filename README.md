@@ -50,22 +50,21 @@ I am a Senior Full-Stack Engineer with **8+ years of dedicated experience** buil
 
 ### 🚀 Featured Projects & Repositories
 
-| Project | Description | Primary Stack |
-| :--- | :--- | :--- |
-| 🌐 **[sakibian.com](https://sakibian.com)** | Personal engineering portfolio, technical blog, and product showcase. | `Laravel` `TailwindCSS` |
-| 💼 **[mjobs.io](https://github.com/sakibian/mjobs.io)** | Scalable job portal for educators & employers with API-first architecture. | `Laravel` `REST API` `Docker` |
-| 🎨 **[codexcolor](https://github.com/sakibian/codexcolor)** | Modern agency web architecture and workflow framework. | `TailwindCSS` `JavaScript` |
-| 📱 **[e-commerce-expo](https://github.com/sakibian/e-commerce-expo)** | Cross-platform mobile e-commerce platform with reactive state management. | `TypeScript` `React Native` `Expo` |
-| 💬 **[whatsapp-cxc](https://github.com/sakibian/whatsapp-cxc)** | Automated business messaging and API integration suite. | `PHP` `REST APIs` |
+| Project                                                               | Description                                                                | Primary Stack                      |
+| :-------------------------------------------------------------------- | :------------------------------------------------------------------------- | :--------------------------------- |
+| 🌐 **[sakibian.com](https://sakibian.com)**                           | Personal engineering portfolio, technical blog, and product showcase.      | `Laravel` `TailwindCSS`            |
+| 💼 **[mjobs.io](https://github.com/sakibian/mjobs.io)**               | Scalable job portal for educators & employers with API-first architecture. | `Laravel` `REST API` `Docker`      |
+| 🎨 **[codexcolor](https://github.com/sakibian/codexcolor)**           | Modern agency web architecture and workflow framework.                     | `TailwindCSS` `JavaScript`         |
+| 📱 **[e-commerce-expo](https://github.com/sakibian/e-commerce-expo)** | Cross-platform mobile e-commerce platform with reactive state management.  | `TypeScript` `React Native` `Expo` |
+| 💬 **[whatsapp-cxc](https://github.com/sakibian/whatsapp-cxc)**       | Automated business messaging and API integration suite.                    | `PHP` `REST APIs`                  |
 
 ---
-
 ### 📈 Contribution & Language Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibian&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Sakib's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibian&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibian&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Sakib's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibian&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=sakibian" width="300" alt="Top Languages" />
+</div>
 
 ---
 
